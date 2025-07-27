@@ -3,8 +3,6 @@
 
 A real-time safety monitoring system for women that uses facial recognition, gender classification, emotion detection, and behavioral analysis to identify potential threats. This project leverages computer vision and deep learning models to analyze live video feeds and trigger alerts in high-risk scenarios.
 
-> 🧠 Based on the published research paper: [Read it here (PDF)](docs/Research_Paper_Women_Safety_Analytics.pdf)
-
 ---
 
 ## 📌 Overview
@@ -56,8 +54,6 @@ python code/threat.py
 ---
 
 ## 📄 Research Paper
-
-📘 [Women Safety Analytics – Published Paper (PDF)](docs/Research_Paper_Women_Safety_Analytics.pdf)
 
 Covers:
 
