@@ -1,0 +1,9 @@
+opencv-python
+deepface
+numpy
+tensorflow
+keras
+matplotlib
+pandas
+scikit-learn
+imutils
